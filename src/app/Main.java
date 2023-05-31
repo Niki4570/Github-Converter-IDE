@@ -2,7 +2,7 @@ package app;
 
 public class Main {
     public static void main(String[] args) {
-        KgToLbs(99);
+        KgToLbs(8);
         LbsToKg(5);
     }
     static void KgToLbs(int kgs){
